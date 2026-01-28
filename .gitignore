@@ -1,0 +1,17 @@
+.env
+.env.*
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.python-version
+
+# Data outputs
+data/
+
+# OS/editor
+.DS_Store
+.vscode/
